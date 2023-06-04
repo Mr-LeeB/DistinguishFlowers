@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="MyAppTheme" parent="Theme.MaterialComponents.Light">
+        <item name="colorPrimary">@color/pink</item>
+        <item name="android:windowBackground">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textSize">36px</item>
+    </style>
+</resources>
